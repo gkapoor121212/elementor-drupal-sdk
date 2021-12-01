@@ -1,0 +1,10 @@
+{
+	"name": "/gkapoor121212/elementor-drupal-sdk",
+	"description": "Modified Elementor SDK for using it with Drupal.",
+	"type": "project",
+	"license": "GNU General Public License v3.0",
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=5.6"
+	}
+}
